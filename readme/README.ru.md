@@ -34,7 +34,7 @@
 #### Работа в OS X
 ! [На сервере установка EpicGamesFix](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
 #### Работа в Ubuntu
-! [На игровом пк установка EpicGamesFix](https://github.com/meteor2024/shots/GamePC.gif)
+! [На игровом пк установка EpicGamesFix](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 # Установка
 - Скачайте Epic Games Launcher
