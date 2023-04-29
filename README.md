@@ -1,2 +1,2 @@
 # EpicGamesFixer
-Epic Games фикс для обновлений с сервера CCBOOT
+### Epic Games фикс для обновлений с сервера CCBOOT
