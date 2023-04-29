@@ -21,7 +21,7 @@
 - zh_CN [简体中文](README.zh_CN.md)
 - zh_TW [繁体中文](README.zh_TW.md)
 
-# Так же смотрите фиксы для Volarant и stim и дополнительные утилиты 
+# Так же смотрите фиксы для valorant и stim и дополнительные утилиты 
 # которые пригодятся для среды компьютерных клубов
 - [GitHub](https://github.com/meteor2024/ValorantGamesFixer
 - [GitHub](https://github.com/meteor2024/StimGamesFixer
