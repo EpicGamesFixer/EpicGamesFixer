@@ -29,7 +29,7 @@ This program it's update fix from server CBOOT whith out icafe
 #### Install Launcher Epic Games Fix on Server CCBOOT
 ![Work on OS X](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
 #### Install Launcher Epic Games Fix on Game PC
-![Work on Ubuntu](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_linux.gif)
+![Work on Ubuntu](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 # Installation
 - With Package Control
