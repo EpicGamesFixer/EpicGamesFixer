@@ -1,4 +1,4 @@
-![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.gif)
+![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png)
 #  EpicGames Fixer Update  
 This program it's update fix from server CBOOT whith out icafe
 
