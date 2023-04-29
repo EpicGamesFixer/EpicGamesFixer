@@ -24,12 +24,12 @@ This program it's update fix from server CBOOT whith out icafe
 - [Gitee](https://gitee.com/zam1024t/LocalizedMenu)
 
 # Shots
-#### Work on Windows
-![Install EpicGames Launcer to server](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_win.gif)
-#### Work on OS X
-![Server Work](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
-#### Work on Ubuntu
-![Game PC Work](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
+#### Install Launcher Epic Games on Server CCBOOT
+![Work on Windows](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_win.gif)
+#### Install Launcher Epic Games Fix on Server CCBOOT
+![Work on OS X](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
+#### Install Launcher Epic Games Fix on Game PC
+![Work on Ubuntu](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_linux.gif)
 
 # Installation
 - With Package Control
