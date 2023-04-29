@@ -1,3 +1,4 @@
+![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.gif)
 # EpicGames Fixer Update
 Инструмент для исправления Epic Games Shell предоставит возможность
 обновлять игры автоматически на сервере CCBOOT даже если у вас 
