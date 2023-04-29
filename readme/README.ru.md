@@ -22,7 +22,7 @@
 - zh_TW [繁体中文](README.zh_TW.md)
 
 # Так же смотрите фиксы для valorant и stim и дополнительные утилиты 
-# которые пригодятся для среды компьютерных клубов
+### которые пригодятся для среды компьютерных клубов
 - [GitHub](https://github.com/meteor2024/ValorantGamesFixer
 - [GitHub](https://github.com/meteor2024/StimGamesFixer
 - [GitHub](https://github.com/meteor2024/OptimizerWin10GameClub
