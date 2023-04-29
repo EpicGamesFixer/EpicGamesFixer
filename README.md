@@ -25,11 +25,11 @@ This program it's update fix from server CBOOT whith out icafe
 
 # Shots
 #### Work on Windows
-![Work on Windows](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_win.gif)
+![Install EpicGames Launcer to server](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_win.gif)
 #### Work on OS X
-![Work on OS X](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
+![Server Work](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
 #### Work on Ubuntu
-![Work on Ubuntu](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
+![Game PC Work](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 # Installation
 - With Package Control
