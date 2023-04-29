@@ -29,7 +29,7 @@ This program it's update fix from server CBOOT whith out icafe
 #### Work on OS X
 ![Work on OS X](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
 #### Work on Ubuntu
-![Work on Ubuntu](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_linux.gif)
+![Work on Ubuntu](https://github.com/meteor2024/shots/GamePC.gif)
 
 # Installation
 - With Package Control
