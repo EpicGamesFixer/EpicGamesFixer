@@ -32,7 +32,7 @@
 #### Работа в Windows
 ![На сервере установка EpicGamesLauncher](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
 #### Работа в OS X
-![На сервере установка EpicGamesFix](https://raw.githubusercontent.com/zam1024t/LocalizedMenu/shots/shots/LocalizedMenu_osx.gif)
+![На сервере установка EpicGamesFix](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/Server.gif)
 #### Работа в Ubuntu
 ![На игровом пк установка EpicGamesFix](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
