@@ -23,11 +23,11 @@
 
 
 # Скриншоты
-#### Работа в Windows
+#### Установите лаунчер Epic Games в первую очередь на сервере а затем на игровом ПК
 ![На сервере установка EpicGamesLauncher](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
-#### Работа в OS X
+#### Скачайте и установите фиксер на сервер
 ![На сервере установка EpicGamesFix](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/Server.gif)
-#### Работа в Ubuntu
+#### Скачайте и установите фиксер на игровом пк (ПК ДОЛЖЕН БЫТЬ ПОД СУПЕР РЕЖИМОМ)
 ![На игровом пк установка EpicGamesFix](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 ### Установка
