@@ -24,11 +24,11 @@ even you dont have ICAFE.
 
 # Shots
 #### Install Epic Games Launcher on Server CCBOOT, then on the Client PC
-![Work on Windows](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
+![Installation Epic Games Launcher on Server](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
 #### Install Epic Games Fixer on Server CCBOOT
-![Work on OS X](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/Server.gif)
-#### Install Epic Games Fixer on Client PC (PC MUST BE UNDER SUPER MODE)
-![Work on Ubuntu](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
+![Installation Epic Games Fixer on Server](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/Server.gif)
+#### Install Epic Games Fixer on Client PC (SUPER MODE SHOULD BE ENABLED)
+![Installation Epic Games Fixer on Client PC](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 ### Installation
 - Epic Games Launcher [⬇️ Download Epic Games Launcher](https://store.epicgames.com/en-US/download)
@@ -47,8 +47,9 @@ even you dont have ICAFE.
 	- Launch Epic Games Fixer
 		- Select same Game Disk, what you selected on the Server
 		- Press "Install Fix" wait installation
-		- After installation end, press "Finish & close" then Shutdown Client PC.
-4. Disable Super Mode and Save It
+		- After installation end, press "Finish & close"
+		- Shutdown Client PC
+4. Disable Super Mode and Save It.
 
 > ✅ **Congratulations Epic Games Fixer installed!**  
 > Now you can installing games and updates in Epic Games Launcher on the Server  
