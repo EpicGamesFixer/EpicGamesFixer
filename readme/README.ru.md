@@ -31,8 +31,8 @@
 ![Установка Epic Games Fixer на клиентском ПК](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 ### Установка
-- Epic Games Launcher [⬇️ Скачать Epic Games Launcher](https://store.epicgames.com/en-US/download)
-- Epic Games Fixer [⬇️ Скачать Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
+- **Epic Games Launcher** [⬇️ Скачать Epic Games Launcher](https://store.epicgames.com/en-US/download)
+- **Epic Games Fixer** [⬇️ Скачать Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
 
 1. На Сервере:
 	- Установите **Epic Games Launcher** на системный диск, после установки рекомендуется перезагрузить сервер
