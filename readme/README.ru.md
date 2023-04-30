@@ -1,13 +1,13 @@
 ![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png)
 # EpicGames Fixer Update
-Инструмент для исправления Epic Games Shell предоставит возможность
+Инструмент для исправления Epic Games Launcher предоставит возможность
 обновлять игры автоматически на сервере CCBOOT даже если у вас 
 отсутсвует ICAFE.
 
 - Простая установка в три шага без глубоких знаний программирования
 - Поддержка всех версий ОС Windows 2012/2019/2022/7/10/11
 - Исправляет возможности обновления игр на сервере которые нормально работают после на игровых ПК
-- Не сохраняен учетные данные вписанные на сервере, дабы не отображать их на игровых ПК
+- Не сохраняет учетные данные вписанные на сервере, дабы не отображать их на игровых ПК
 
 
 # README.md
@@ -15,7 +15,7 @@
 - ru [Русский](README.ru.md)
 
 
-# Так же смотрите фиксы для valorant и stim и дополнительные утилиты 
+# Так же смотрите фиксы для Valorant и Steam и дополнительные утилиты 
 ### которые пригодятся для среды компьютерных клубов
 - [GitHub Valorant and Riot Games Fixer](https://github.com/meteor2024/riotlaunchersfixer
 - [GitHub Steam launcer fixer ](https://github.com/meteor2024/steamgamesfixer
@@ -23,7 +23,7 @@
 
 
 # Скриншоты
-#### Установите лаунчер Epic Games в первую очередь на сервере а затем на игровом ПК
+#### Установите Epic Games Launcher в первую очередь на сервере а затем на игровом ПК
 ![На сервере установка EpicGamesLauncher](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
 #### Скачайте и установите фиксер на сервер
 ![На сервере установка EpicGamesFix](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/Server.gif)
@@ -56,7 +56,7 @@
 - 5 Запустите установку или обновление игры Из Epic Games Launcher
      То что вы обновите или установите так же установится и обновится
      на игровых ПК.
-- 6 Можете оставить на сервере Epic Games Launcher для автообновлений
+- 6 Можете не закрывать на сервере Epic Games Launcher для автообновлений
     > Приятного использования.
 
 
