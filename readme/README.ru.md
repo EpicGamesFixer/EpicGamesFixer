@@ -17,7 +17,7 @@
 
 # Так же смотрите фиксы для valorant и stim и дополнительные утилиты 
 ### которые пригодятся для среды компьютерных клубов
-- [GitHub](https://github.com/meteor2024/valorantgamesfixer
+- [GitHub Valorant and Riot Games Fixer](https://github.com/meteor2024/riotlaunchersfixer
 - [GitHub](https://github.com/meteor2024/stimGamesFixer
 - [GitHub](https://github.com/meteor2024/optimizerWin10gameclub
 
