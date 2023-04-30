@@ -66,9 +66,7 @@
 - 6. Можете оставить на сервере Epic Games Launcher для автообновлений
     > Приятного использования.
 
-	```
-	git clone https://github.com/zam1024t/LocalizedMenu
-	```
+
 
 
 
