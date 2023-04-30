@@ -41,7 +41,7 @@
 - Скачайте Epic Games Launcher
 	- установите [Download Epic Games Launcher](https://store.epicgames.com/en-US/download)
 - Скачайте фикс
-	- установите [Download Epic Games Fixer ](https://github.com/meteor2024/releses)
+	- установите [Download Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
 
 - 1 На сервере установите EPIC Games Launcher на системный диск (Желательно перезагрузить сервер)
 - 2 На сервере Запустите EPICGamesFixer 
