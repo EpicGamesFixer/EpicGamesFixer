@@ -4,7 +4,7 @@ This tool for Epic Games Launcher will provide
 automatically game updates on CCBOOT server, 
 even you dont have ICAFE.
 
-- Easy setup with 3 steps, without knowing any programming
+- Easy setup with 3 steps
 - Supports all versions of Windows 2012/2019/2022/7/10/11
 - Fixes game updates that work fine on Client PCs without Super Mode
 - Don't save account details on the server, so as not to display them on Client PCs
