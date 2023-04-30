@@ -49,6 +49,7 @@ even you dont have ICAFE.
 		- After installation end, press "Finish & close" then Shutdown Client PC.
 	- Disable Super Mode and Save It
 
+> **Note**
 > **Congratulations Epic Games Fixer installed!**  
 > Now you can installing games and updates in Epic Games Launcher on the Server  
 > All games and updates you installed will be automatically installed and updated on the Client PC.  
