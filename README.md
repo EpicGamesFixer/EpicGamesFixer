@@ -1,95 +1,67 @@
 ![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png)
-#  Epic Games Fixer Update  
-This program it's update fix from server CBOOT whith out icafe
+# EpicGames Fixer Update
+This tool for Epic Games Launcher will provide 
+automatically game updates on CCBOOT server, 
+even you dont have ICAFE.
 
-- Provide a easy way to add new languages
-- Support multiple version/platform
-- Support share common menus
-- Auto backup local menus
-- Auto unpack new build english menus
+- Easy setup with 3 steps, without knowing any programming
+- Supports all versions of Windows 2012/2019/2022/7/10/11
+- Fixes game updates that work fine on Client PCs withou Super Mode
+- Don't save account details on the server, so as not to display them on Client PCs
+
 
 # README.md
 - en [English](README.md)
 - ru [Русский](readme/README.ru.md)
 
 
-# This project is also hosted at
-- [GitHub](https://github.com/zam1024t/LocalizedMenu)
-- [Gitee](https://gitee.com/zam1024t/LocalizedMenu)
+# Also check other fixes for Valorant, Steam and other tool
+### which will be useful for the environment of computer clubs
+- [GitHub Valorant and Riot Games Fixer](https://github.com/meteor2024/riotlaunchersfixer
+- [GitHub Steam launcer fixer ](https://github.com/meteor2024/steamgamesfixer
+- [GitHub Optimization Game PC](https://github.com/meteor2024/optimizerwin10gameclub
+
 
 # Shots
-#### Install Launcher Epic Games on Server CCBOOT
+#### Install Epic Games Launcher on Server CCBOOT, then on the Client PC
 ![Work on Windows](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
-#### Install Launcher Epic Games Fix on Server CCBOOT
+#### Install Epic Games Fixer on Server CCBOOT
 ![Work on OS X](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/Server.gif)
-#### Install Launcher Epic Games Fix on Game PC
+#### Install Epic Games Fixer on Client PC (PC MUST BE UNDER SUPER MODE)
 ![Work on Ubuntu](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
-# Installation
-- With Package Control
-	- install [Package Control](https://packagecontrol.io/installation)
-	- search for `LocalizedMenu`
-- Manually
-	- donwload [master.zip](https://github.com/zam1024t/LocalizedMenu/archive/master.zip)，unpack to `Packages`，then rename `LocalizedMenu-master` to `LocalizedMenu`
-	- git clone to `Packages`
-	```
-	git clone https://github.com/zam1024t/LocalizedMenu
-	```
+### Installation
+- Download Epic Games Launcher
+	- install [Download Epic Games Launcher](https://store.epicgames.com/en-US/download)
+- Download Epic Games Fixer
+	- install [Download Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
 
-# Usage
-- Toggle in menu
-	- via `Preference` -> `Languages`
-- Toggle in command panel
-	- `Ctrl+Shift+P`, type`lmxx`(*xx* is the locale code) to toggle
+- 1 On the Server, install Epic Games Launcher to the System Disk (Recommend reboot the server)
+- 2 On the Server, launch Epic Games Fixer 
+>    if you have more than one Game Disk, select the one you want
+>    Then press <<Install Fix>> wait installation
+     	After installation end press <<Finish & Close>>
+    > Congratulations Epic Games Fixer installed!
+- 3 On the Client PC
+    > Make sure you have already installed Epic Games Launcher
+     If not install it, before installation Epic Games Fixer
+- 4 On the Client PC
+    > Enable Super Client Mode in CCBOOT for Client PC and enable and load it
+    > After Client PC enabled and loaded, download Epic Games Fixer from the link above
+    > Launch Epic Games Fixer, and select same Game Disk, what you selected on the Server
+     Then press <<Install Fix>> wait installation
+     After installation end press <<Finish & close>> then Shutdown Client PC.
+    > Disable Super Mode and Save It
+- 5 Now you can installing games and updates in Epic Games Launcher on the Server
+     All games and updates you installed will be automatically installed and updated
+     on the Client PC.
+- 6 You can dont logout from the Epic Games Launcher on the Server, for autoupdates
+    > Enjoy!
 
-# Add A Language
-- copy `locale/en/en.json` to `locale/<locale>/<locale>.json`, localize to your language
-- copy `menu/<version>/en/*` to `menu/<version>/<locale>/*`, localize to your language
-- For example, now add locale named `my` for Sublime Text Build 3999
-	- open `LocalizedMenu` dir, via `Preference` -> `Languages` -> `Add a language`
-	- enter `locale`, copy `en` to `my`
-	- enter `my`, rename `en.json` to `my.json`, edit as:
 
-	```JavaScript
-	{
-		"link": "",
-		"hidden": false,
-		"caption": "MyLanguage",
-		"mnemonic": "m"
-	}
-	```
 
-	- enter`menu/3999`, copy `en` to `my`, and tranlate all `caption` in menu files
-	- detect language via `Preference` -> `Languages` -> `Detect`, then `MyLanguage (my)` display
 
-	> **locale configs**<br>
-	> link： the target locale linked to<br>
-	> hidden： hide menu item<br>
-	> caption： language name，locale code will auto add extraly<br>
-	> mnemonic： hotkey，optional，make sure caption contain it，Case sensitive
 
-# Submit A Language
-- locale name must be named as `<languageCode>` or `<languageCode>_<countryCode>`
-	- `<languageCode>` lowercase, `<countryCode>` uppercase, (ignore this if work on local)
-	- Language: https://www.wikipedia.org/wiki/ISO_639-1
-	- Country: https://www.wikipedia.org/wiki/ISO_3166-1
-- Fork repo
-- Make pull request
-
-# Locales & Contributors
-- de_DE Deutsch *by [Standarduser](https://github.com/Standarduser)*
-- es_ES Español *by [Dastillero](https://github.com/dap39)*
-- fr_FR Français *by [fxbenard](https://github.com/fxbenard)*
-- hy Հայերեն *by [Arman High Foundation](https://github.com/ArmanHigh)*
-- pt Português do Brasil *by [JNylson](https://github.com/jnylson)*
-- ru Русский *by [Dimox](http://dimox.name) & [Ant0sh](https://github.com/Ant0sh) & [Maksim Arhipov](https://github.com/OSPanel)*
-- sv_SE Svenska *by [H2SO4JB](https://github.com/H2SO4JB)*
-- zh_CN 简体中文 *by [Zam](https://github.com/zam1024t)*
-- zh_TW 繁体中文 *by [Zam](https://github.com/zam1024t)*
-
-# Related discuss
-- https://github.com/wbond/package_control_channel/pull/5665
-- https://github.com/rexdf/ChineseLocalization/issues/10
 
 # License
 [The MIT License](LICENSE)
