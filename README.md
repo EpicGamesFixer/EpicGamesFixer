@@ -6,7 +6,7 @@ even you dont have ICAFE.
 
 - Easy setup with 3 steps, without knowing any programming
 - Supports all versions of Windows 2012/2019/2022/7/10/11
-- Fixes game updates that work fine on Client PCs withou Super Mode
+- Fixes game updates that work fine on Client PCs without Super Mode
 - Don't save account details on the server, so as not to display them on Client PCs
 
 
@@ -17,9 +17,9 @@ even you dont have ICAFE.
 
 # Also check other fixes for Valorant, Steam and other tool
 ### which will be useful for the environment of computer clubs
-- [GitHub Valorant and Riot Games Fixer](https://github.com/meteor2024/riotlaunchersfixer
-- [GitHub Steam launcer fixer ](https://github.com/meteor2024/steamgamesfixer
-- [GitHub Optimization Game PC](https://github.com/meteor2024/optimizerwin10gameclub
+- [GitHub Valorant and Riot Games Fixer](https://github.com/meteor2024/riotlaunchersfixer)
+- [GitHub Steam launcer fixer ](https://github.com/meteor2024/steamgamesfixer)
+- [GitHub Optimization Game PC](https://github.com/meteor2024/optimizerwin10gameclub)
 
 
 # Shots
@@ -38,25 +38,25 @@ even you dont have ICAFE.
 
 - 1 On the Server, install Epic Games Launcher to the System Disk (Recommend reboot the server)
 - 2 On the Server, launch Epic Games Fixer 
->    if you have more than one Game Disk, select the one you want
->    Then press <<Install Fix>> wait installation
+    > if you have more than one Game Disk, select the one you want
+    > Then press <<Install Fix>> wait installation
      	After installation end press <<Finish & Close>>
     > Congratulations Epic Games Fixer installed!
 - 3 On the Client PC
     > Make sure you have already installed Epic Games Launcher
      If not install it, before installation Epic Games Fixer
 - 4 On the Client PC
-    > Enable Super Client Mode in CCBOOT for Client PC and enable and load it
-    > After Client PC enabled and loaded, download Epic Games Fixer from the link above
-    > Launch Epic Games Fixer, and select same Game Disk, what you selected on the Server
-     Then press <<Install Fix>> wait installation
-     After installation end press <<Finish & close>> then Shutdown Client PC.
-    > Disable Super Mode and Save It
+    - Enable Super Client Mode in CCBOOT for Client PC and enable and load it
+    - After Client PC enabled and loaded, download Epic Games Fixer from the link above
+    - Launch Epic Games Fixer, and select same Game Disk, what you selected on the Server
+    - Then press <<Install Fix>> wait installation
+    - After installation end press <<Finish & close>> then Shutdown Client PC.
+    - Disable Super Mode and Save It
 - 5 Now you can installing games and updates in Epic Games Launcher on the Server
-     All games and updates you installed will be automatically installed and updated
-     on the Client PC.
+    - All games and updates you installed will be automatically installed and updated
+    - on the Client PC.
 - 6 You can dont logout from the Epic Games Launcher on the Server, for autoupdates
-    > Enjoy!
+    - Enjoy!
 
 
 
