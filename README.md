@@ -43,7 +43,7 @@ even you dont have ICAFE.
 2. On the Client PC:
 	- Enable Super Client Mode in CCBOOT for Client PC and load it
 	- Make sure you have already installed Epic Games Launcher
-		> **Note** If not, install it before installation Epic Games Fixer
+		- If not, install it before installation Epic Games Fixer
 	- After Client PC enabled and loaded, download Epic Games Fixer from the link above
 		- Launch Epic Games Fixer, and select same Game Disk, what you selected on the Server
 		- Press "Install Fix" wait installation
