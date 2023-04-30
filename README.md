@@ -31,10 +31,8 @@ even you dont have ICAFE.
 ![Work on Ubuntu](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/GamePC.gif)
 
 ### Installation
-- Download Epic Games Launcher
-	- install [Download Epic Games Launcher](https://store.epicgames.com/en-US/download)
-- Download Epic Games Fixer
-	- install [Download Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
+- Epic Games Launcher [Download Epic Games Launcher](https://store.epicgames.com/en-US/download)
+- Epic Games Fixer [Download Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
 
 1. On the Server:
 	- Install Epic Games Launcher to the System Disk after installation end, recommend reboot the server
