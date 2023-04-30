@@ -41,7 +41,7 @@ even you dont have ICAFE.
     - Select Game Disk, if you have more than one Game Disk select what you want
     - Then press <<Install Fix>> wait installation
     - After installation end press <<Finish & Close>>
-    > Congratulations Epic Games Fixer installed!
+    - Congratulations Epic Games Fixer installed!
 - 3 On the Client PC
     - Make sure you have already installed Epic Games Launcher
     - If not install it, before installation Epic Games Fixer
