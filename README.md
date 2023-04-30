@@ -50,7 +50,7 @@ even you dont have ICAFE.
 		- Launch Epic Games Fixer, and select same Game Disk, what you selected on the Server
 		- Then press "Install Fix" wait installation
 		- After installation end, press "Finish & close" then Shutdown Client PC.
-    	- Disable Super Mode and Save It
+	- Disable Super Mode and Save It
 > Now you can installing games and updates in Epic Games Launcher on the Server
 >  - All games and updates you installed will be automatically installed and updated
 >  - on the Client PC.
