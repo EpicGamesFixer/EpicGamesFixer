@@ -52,9 +52,9 @@ even you dont have ICAFE.
 4. Disable Super Mode and Save It.
 
 > ✅ **Congratulations Epic Games Fixer installed!**  
-> Now you can installing games and updates in Epic Games Launcher on the Server  
+> Now you can installing games and updates in Epic Games Launcher on the Server.  
 > All games and updates you installed will be automatically installed and updated on the Client PC.  
-> Also you can dont logout from the Epic Games Launcher on the Server, for autoupdates
+> For games autoupdates Epic Games Launcher should be enabled and logged in on the Server.
 
 
 
