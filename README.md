@@ -35,19 +35,18 @@ even you dont have ICAFE.
 - Epic Games Fixer [⬇️ Download Epic Games Fixer ](https://github.com/meteor2024/EpicGamesFixer/releases)
 
 1. On the Server:
-	- Install Epic Games Launcher to the System Disk after installation end, recommend reboot the server
-	- Launch Epic Games Fixer 
+	- Install **Epic Games Launcher** to the System Disk after installation end, recommend reboot the server
+	- Launch **Epic Games Fixer** 
 		- Select Game Disk, if you have more than one Game Disk select what you want
-		- Press "Install Fix" wait installation
-		- After installation end, press "Finish & Close"
-2. Enable Super Client Mode in CCBOOT for Client PC and load it
-3. On the Client PC:
-	- After Client PC enabled and loaded, download Epic Games Fixer from the link above
-	- Make sure you have already installed Epic Games Launcher, before installation Epic Games Fixer
-	- Launch Epic Games Fixer
+		- Press **Install Fix** wait installation
+		- After installation end, press **Finish & Close**
+2. Enable Super Client Mode in CCBOOT for Client PC and load it:
+	- Download **Epic Games Fixer** from the link above
+	- Make sure **Epic Games Launcher** already installed, if not install it
+	- Launch **Epic Games Fixer**
 		- Select same Game Disk, what you selected on the Server
-		- Press "Install Fix" wait installation
-		- After installation end, press "Finish & close"
+		- Press "**Install Fix** wait installation
+		- After installation end, press **Finish & close**
 		- Shutdown Client PC
 4. Disable Super Mode and Save It.
 
