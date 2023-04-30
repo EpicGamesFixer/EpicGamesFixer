@@ -40,7 +40,6 @@ even you dont have ICAFE.
 		- Select Game Disk, if you have more than one Game Disk select what you want
 		- Press "Install Fix" wait installation
 		- After installation end, press "Finish & Close"
-		- Congratulations Epic Games Fixer installed!
 2. On the Client PC:
 	- Enable Super Client Mode in CCBOOT for Client PC and load it
 	- Make sure you have already installed Epic Games Launcher, if not install it, before installation Epic Games Fixer
@@ -50,11 +49,13 @@ even you dont have ICAFE.
 		- After installation end, press "Finish & close" then Shutdown Client PC.
 	- Disable Super Mode and Save It
 
+Congratulations Epic Games Fixer installed!
+
 > Now you can installing games and updates in Epic Games Launcher on the Server
->  - All games and updates you installed will be automatically installed and updated
->  - on the Client PC.
-> You can dont logout from the Epic Games Launcher on the Server, for autoupdates
->   - Enjoy!
+>  - All games and updates you installed will be automatically installed and updated on the Client PC.
+> Alos you can dont logout from the Epic Games Launcher on the Server, for autoupdates
+
+
 
 
 
