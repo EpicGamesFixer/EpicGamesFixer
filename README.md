@@ -1,8 +1,5 @@
 <p align='center'>
   <b> EpicGames Fixer Update </b><br>  
-  <a href="https://discord.gg/kaneki">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiWeb">Github</a><br><br>
   <img src="https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png" style="width: 20%">
 </p>
 ![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png)
