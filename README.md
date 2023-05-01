@@ -1,4 +1,5 @@
 ![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png)
+<body bgcolor=black>
 # EpicGames Fixer Update
 This tool for Epic Games Launcher will provide 
 automatically game updates on CCBOOT server, 
