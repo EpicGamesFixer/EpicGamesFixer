@@ -4,10 +4,10 @@ This tool for Epic Games Launcher will provide
 automatically game updates on CCBOOT server, 
 even you dont have ICAFE.
 
-- Easy setup with 3 steps
-- Supports all versions of Windows 2012/2019/2022/7/10/11
-- Fixes game updates that work fine on Client PCs without Super Mode
-- Don't save account details on the server, so as not to display them on Client PCs
+- ✔️ Easy setup with 3 steps
+- ✔️ Supports all versions of Windows 2012/2019/2022/7/10/11
+- ✔️ Fixes game updates that work fine on Client PCs without Super Mode
+- ✔️ Don't save account details on the server, so as not to display them on Client PCs
 
 
 # README.md
@@ -22,7 +22,7 @@ even you dont have ICAFE.
 - [GitHub Optimization Game PC](https://github.com/meteor2024/optimizerwin10gameclub)
 
 
-# Shots
+# 📸 Shots
 #### Install Epic Games Launcher on Server CCBOOT, then on the Client PC
 ![Installation Epic Games Launcher on Server](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/EpicLauncherPC.gif)
 #### Install Epic Games Fixer on Server CCBOOT
