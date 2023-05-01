@@ -2,7 +2,7 @@
   <b> EpicGames Fixer Update </b><br>  
   <img src="https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png" style="width: 20%">
 </p>
-![EpicGames Fixer Update ](https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png)
+
 This tool for Epic Games Launcher will provide 
 automatically game updates on CCBOOT server, 
 even you dont have ICAFE.
