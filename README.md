@@ -1,4 +1,6 @@
+<head>
 <meta name="google-site-verification" content="0WYsTwZYtJR__mE7ws3sdKDCdQW-Cmne5LW8xzDG-Jk" />
+</head>
 <p align='center'>
   <b> EpicGames Fixer Update </b><br>  
   <img src="https://github.com/meteor2024/EpicGamesFixer/blob/main/shots/6615685.png" style="width: 20%">
